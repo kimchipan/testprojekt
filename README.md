@@ -1,3 +1,3 @@
 # testprojekt
 
-Obstsalat aus vielen Frücten
+Obstsalat aus vielen Früchten
